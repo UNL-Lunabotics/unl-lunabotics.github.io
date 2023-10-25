@@ -20,4 +20,4 @@ There are plenty of online tutorials for a variety of coding languages. We prima
 Robot Operating System is a set of software libraries and tools that help to build robot applications. We use ROS Melodic, a version that works with Ubuntu 18.04. 
 * Ubuntu is a operating system, like Windows or MacOS. In order to run Ubuntu on your computer you need to dual boot. Which isn't the simplest thing. Instead, we use the Aerospace server so you can code in ROS without dual booting! Reach out to the programming lead/server admin for details on how to get an account
 
-In order to learn ROS there's lots of great tutorials on the [ROS Wiki](Tutorials).
+In order to learn ROS there's lots of great tutorials on the [ROS Wiki](https://wiki.ros.org/ROS/Tutorials).
