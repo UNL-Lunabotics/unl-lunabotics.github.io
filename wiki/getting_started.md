@@ -30,4 +30,4 @@ Below are a few ROS videos from our team:
 3. ROS packages and nodes [here](https://www.youtube.com/watch?v=Zum6wJvT0go)
 4. An example of a ROS structure [here](https://www.youtube.com/watch?v=77DWY-JECWM)
 
-We also have a page to store commonly encountered errors in ROS, be sure to keep [it](../assets/blog/posts/2023/10/26/debugging-ros.html) updated.
+We also have a page to store commonly encountered errors in ROS, be sure to keep [it](../_posts/2023-10-25-debugging-ros.md) updated.
