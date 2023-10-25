@@ -3,11 +3,33 @@ redirect_from: /
 published: true
 ---
 
-# Welcome to git-wiki demo!
+# Welcome to the UNL Lunabotics Documentation Site
 
-This is both documentation and [demo](Demo.md) of [git-wiki theme](https://github.com/Drassil/git-wiki-theme) project.
+This is documentation for team processes and code that we can keep over the years as a great reference.
 
-it's a **modular and full featured wiki** powered by git, [github](https://pages.github.com/)/[gitlab](https://about.gitlab.com/product/pages/) pages and pull-requests!
+We will include documentation for our test robot (Terrence) and competition robot (Tabitha 2023, Theodore 2022). We will also include any results of research and explanations of our code.
+
+## What This Site Will Include
+We have three main components
+* Processes
+    * What is the minimum voltage of the LiPo batteries
+    * How do we charge the LiPo batteries
+* Research
+    * What systems have we used and tested
+    * What other code from other sources have we used
+    * What works/Doesn't work
+* Setup (comp + testing)
+    * Exactly how we set up our system for competition
+    * What commands we run
+* General Knowledge
+    * Any tutorials and info that can be useful to the team
+    * ROS Tutorials
+    * Python Tutorials
+    * UNL RMC Channel Links
+
+<!-- This is both documentation and [demo](Demo.md) of [git-wiki theme](https://github.com/Drassil/git-wiki-theme) project. -->
+
+<!-- it's a **modular and full featured wiki** powered by git, [github](https://pages.github.com/)/[gitlab](https://about.gitlab.com/product/pages/) pages and pull-requests!
 
 The git-wiki project is composed by 3 different repository:
 
@@ -138,8 +160,8 @@ Thank you!
 
 ## Components used
 
-- [jekyll-toc](https://github.com/allejo/jekyll-toc)
+- [jekyll-toc](https://github.com/allejo/jekyll-toc) -->
 
-- [jQuery](https://jquery.com/) for DOM manipulation
+<!-- - [jQuery](https://jquery.com/) for DOM manipulation -->
 
 [MIT LICENSE](LICENSE)
