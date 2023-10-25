@@ -9,6 +9,12 @@ This is documentation for team processes and code that we can keep over the year
 
 We will include documentation for our test robot (Terrence) and competition robot (Tabitha 2023, Theodore 2022). We will also include any results of research and explanations of our code.
 
+## Quick Links (Our Primary Repositories)
+Note, you will need to be added to the [GitHub Organization for UNL-Lunabotics](https://github.com/UNL-Lunabotics), otherwise you will not have access. Ask if you don't have access yet for your GitHub account to be added.
+* [Exploratory Code (aka testing)](https://github.com/UNL-Lunabotics/exploration-code)
+* [Test Robot (Terrence)](https://github.com/UNL-Lunabotics/2022-terrence)
+# [Competition Robot (Tabitha)](https://github.com/UNL-Lunabotics/2022-tabitha-bot)
+
 ## What This Site Will Include
 We have three main components
 * Processes
@@ -27,7 +33,7 @@ We have three main components
     * Python Tutorials
     * (UNL RMC Channel Links)[https://www.youtube.com/channel/UC9e6bLIrVhL3WJ3fd_yJDnw/videos]
 
-Current Information
+## Primary Info Sources on Site (also under main menu)
 * [Getting started on the programming team (and resources for learning)](./getting_started.md)
 * [How to setup Terrence (test bot)](./setup_terrence.md)
 
