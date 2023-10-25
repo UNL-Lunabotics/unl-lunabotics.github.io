@@ -12,6 +12,8 @@ GitHub is a version control platform that allows developers to store and manage 
 
 We have a few differnt repositiories. Repositories (aka repos) store code for different projects. For example, we have a repo for our test robot (Terrence) and a repo for our competition robot. We also have one for our exploration code as well.
 
+[GitHub Desktop Video Tutorial](https://www.youtube.com/watch?v=WvOKwBWS7bM)
+
 ## Python
 There are plenty of online tutorials for a variety of coding languages. We primarily use Python. 
 * [Codecademy](https://www.codecademy.com/courses/learn-python-3/)
@@ -22,5 +24,10 @@ Robot Operating System is a set of software libraries and tools that help to bui
 
 In order to learn ROS there's lots of great tutorials on the [ROS Wiki](https://wiki.ros.org/ROS/Tutorials).
 
+Below are a few ROS videos from our team:
+1. How to install ROS [here](https://www.youtube.com/watch?v=mUZZWglS6nE)
+2. How pub/sub systems work [here](https://www.youtube.com/watch?v=w_M7PgCj_cI)
+3. ROS packages and nodes [here](https://www.youtube.com/watch?v=Zum6wJvT0go)
+4. An example of a ROS structure [here](https://www.youtube.com/watch?v=77DWY-JECWM)
 
-We also have a page to store commonly encountered errors in ROS, be sure to keep [it](../_posts/2023-10-26-debugging-ros.md) updated.
+We also have a page to store commonly encountered errors in ROS, be sure to keep [it](../assets/blog/posts/2023/10/26/debugging-ros.html) updated.
