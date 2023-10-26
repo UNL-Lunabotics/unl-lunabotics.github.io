@@ -7,13 +7,21 @@ In order to setup Terrence you have to follow a couple steps
 
 ## Remote Setup (not plugged into terrence, using control station)
 1. Run the following command (will open another terminal window do **not** touch it)
+TODO: make sure below lines work
 ```
 bash ./Documents/2022-control_station/otherfiles/startControl.bash
 ```
 2. On the new terminal, run the following
+TODO: make sure the rmctestbot thing is right
 ```
-ssh unllunar@rmccompbot
-bash ./Documents/2022-tabitha_bot/otherfiles/startWirelessControl.bash
+ssh unllunar@rmctestbot
+bash ./Documents/2022-terrence/otherfiles/startRemoteBot.bash
 ```
 
 ## Wired Setup
+1. Plug in the monitor, joystick, mouse into the test robot
+3. pull up a terminal and run the following command:
+```
+cd Documents/2022-terrence/otherfiles
+bash ./startManualControl.bash
+```
