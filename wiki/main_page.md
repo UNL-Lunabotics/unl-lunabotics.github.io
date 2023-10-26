@@ -15,6 +15,12 @@ Note, you will need to be added to the [GitHub Organization for UNL-Lunabotics](
 * [Test Robot (Terrence)](https://github.com/UNL-Lunabotics/2022-terrence)
 * [Competition Robot (Tabitha)](https://github.com/UNL-Lunabotics/2022-tabitha-bot)
 
+## Primary Info Sources on Site (also under main menu)
+* [Getting started on the programming team (and resources for learning)](./getting_started.md)
+* [How to setup Terrence (test bot)](./setup_terrence.md)
+* [How to setup Tabitha (comp bot 2023-24)](./setup_tabitha.md)
+* [Research 23-24 and Insights](./research23.md)
+
 ## What This Site Will Include
 We have three main components
 * Processes
@@ -32,9 +38,5 @@ We have three main components
     * ROS Tutorials
     * Python Tutorials
     * (UNL RMC Channel Links)[https://www.youtube.com/channel/UC9e6bLIrVhL3WJ3fd_yJDnw/videos]
-
-## Primary Info Sources on Site (also under main menu)
-* [Getting started on the programming team (and resources for learning)](./getting_started.md)
-* [How to setup Terrence (test bot)](./setup_terrence.md)
 
 [MIT LICENSE](LICENSE)
