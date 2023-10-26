@@ -6,4 +6,4 @@ feel free to add references or articles that talks about us:
 
 ## Contacts
 
-if you want to ask a question, or add something to our site, <a href="mailto:staff-drassil@googlegroups.com">contact us</a>
+If you want to ask a question, please contact the Aerospace Club via our NVolveU or reach out via the Discord Server. 
