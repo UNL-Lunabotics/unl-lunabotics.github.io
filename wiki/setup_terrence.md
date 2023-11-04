@@ -7,6 +7,8 @@ In order to setup Terrence you have to follow a couple steps
 
 ## Remote Setup (not plugged into terrence, using control station)
 1. Run the following command (will open another terminal window do **not** touch it)
+Make sure both Terrence and the control station are connected to team32
+
 TODO: make sure below lines work
 ```
 bash ./Documents/2022-control_station/otherfiles/startControl.bash
@@ -14,7 +16,7 @@ bash ./Documents/2022-control_station/otherfiles/startControl.bash
 2. On the new terminal, run the following
 TODO: make sure the rmctestbot thing is right
 ```
-ssh unllunar@rmctestbot
+ssh rmctestbot
 bash ./Documents/2022-terrence/otherfiles/startRemoteBot.bash
 ```
 
