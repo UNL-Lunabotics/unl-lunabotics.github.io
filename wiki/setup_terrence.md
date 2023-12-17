@@ -14,9 +14,8 @@ TODO: make sure below lines work
 bash ./Documents/2022-control_station/otherfiles/startControl.bash
 ```
 2. On the new terminal, run the following
-TODO: make sure the rmctestbot thing is right
 ```
-ssh rmctestbot
+ssh unllunar@rmctestbot
 bash ./Documents/2022-terrence/otherfiles/startRemoteBot.bash
 ```
 
