@@ -1,3 +1,8 @@
+---
+published: true
+---
+# Setting up camera code
+
 Follow installation instructions here: https://github.com/IntelRealSense/realsense-ros#installation-instructions
 
 Have a camera launch file as follows:
