@@ -11,12 +11,18 @@ From there, we were able to use the install bash file
 
 We then used the following commands
 
-* First terminal:
-    * roscore
-* Then in a second terminal:
-    * roslaunch realsense2_camera rs_camera.launch
-* Then in a third terminal:
-    * rviz
+First terminal:
+```
+    roscore
+```
+Then in a second terminal:
+```
+    roslaunch realsense2_camera rs_camera.launch
+```
+Then in a third terminal:
+```
+    rviz
+```
 
 This third terminal will open up the rviz terminal which then you go to add > by topic > /camera/color or /camera/depth and then SELECT IMAGE (camera and depth cloud do not display anything)
 
