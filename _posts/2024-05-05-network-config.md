@@ -10,14 +10,17 @@ Alright, when doing this you want to focus on a few things:
 
 ## General setup
 
+We use the 192.168 numbers (the first number returned by hostname -I) for the /etc/hosts information
+(Change the one from testbot to the 192.168 number here too!)
 for /etc/hosts on BOTH machines
 
 ```
-  127.0.1.1 rmccontrolstation
-  127.0.1.2 rmctestbot
+  192.168.0.126 rmccontrolstation
+  ???.???.?.??? rmctestbot
 ```
 
 for ~/.bashrc
+Note that 127.0.0.1 is assigned on both machines as the local host
   on the control station, set:
   ```
     ROS_MASTER_URI=http://127.0.0.1:11311
